@@ -1,0 +1,4 @@
+// Release.xcconfig
+// API Configuration for Release builds
+
+COMIC_VINE_API_KEY = cdba4f253e150492a6aeecf8c6c35981ad6337b6
